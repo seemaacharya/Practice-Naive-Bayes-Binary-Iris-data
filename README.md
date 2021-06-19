@@ -1,0 +1,1 @@
+# Practice-Naive-Bayes-Binary-Iris-data
